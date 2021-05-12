@@ -15,7 +15,7 @@
     "mailgun-js": "^0.22.0"
   },
   "devDependencies": {
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.1"
   }
 }
